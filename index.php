@@ -24,9 +24,9 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p>Your AWS Ela45stic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>YTU AWS Ela45stic Beanstalk <em>PHP</em> la aplicacion esta corriendo sobre un ambiente dedicado en AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p>este ambiente fue lanzado por Gilardoni PHP Platform</p>
     </section>
 
     <section class="instructions">
